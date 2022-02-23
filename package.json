@@ -2,7 +2,7 @@
   "devDependencies": {
     "cypress": "^9.5.0"
   },
-"scripts": {
+  "scripts": {
     "cy:open": "cypress open",
     "cy:run:firstTest": "cypress run --spec 'cypress/integration/firstTest.js'"
   }

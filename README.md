@@ -18,7 +18,7 @@ Download a video of one sample test case execution.
 ## Test cases
 
 ![Test cases screen](http://papol.pl/cert/testcases.png)
-Download all TC in .xls file
+[Download all TC in .xlsx file](http://papol.pl/cert/ZeroBank.xlsx)
 
 ## Used technologies/ libraries
 * Javascript
