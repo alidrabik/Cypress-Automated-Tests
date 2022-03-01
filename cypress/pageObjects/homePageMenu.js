@@ -57,11 +57,11 @@ class HomePageMenu {
     }
 
     clickLeftArrowOnTheCarousel() {
-        cy.get(selectors.carouselLeftArrow).dblclick();
+        cy.get(selectors.carouselLeftArrow).dblclick({force: true});
     }
 
     clickRightArrowOnTheCarousel() {
-        cy.get(selectors.carouselRightArrow).dblclick();
+        cy.get(selectors.carouselRightArrow).dblclick({force: true});
     }
 
     clickOnMoreServicesBtn() {
